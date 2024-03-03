@@ -48,3 +48,9 @@ select {
     font-size: 10px;
     padding: 8px;
 }
+button {
+    background-color: green;
+}
+.disabled {
+    background-color: #8e8c8c!important; 
+}
